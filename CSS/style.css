@@ -3,7 +3,7 @@ body{
     margin:0;
     justify-content: center;
     align-items: center;
-    background-image: url(fondo.png);
+    /*background-image: url(../Imagenes/foto_fondo.png);*/
 }
 
 .nav_vete{
@@ -44,30 +44,27 @@ nav a:hover{
     }
 }
 
-h3 {
-    color: #3c1b66;
-    font-weight: normal;
+
+/*PARTE DEL INDEX*/
+
+p{
+    font-size: medium;
     
-    line-height: 1.4em;
-    font-size: 14px;
-    text-align: justify;
-    font-family: Arial;
-    text-transform: lowercase;
 }
 
-.mision{
-    background-color: rgb(255, 255, 255);
-    border: 10px 10px 10px 10px;
-    margin-top: 100px;
-    margin-left: 200px;
-    margin-right: 200px;
+
+
+
+
+
+h3 {
+    
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    font-size: 15rem;
+
 }
 
-.mision img{
-    width: 616px;
-    height: 360px;
-    float: right;
-}
 .vision img{
     width: 480px;
     height: 360px;
